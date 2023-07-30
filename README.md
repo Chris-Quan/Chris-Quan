@@ -13,7 +13,7 @@ Web Design
   * Built with React.JS, HTML and CSS
 
 - 🔭 I’m currently working on a vue project and a personal website
-- - 📫 Feel free to reach via email at Chrisquan86@outlook.com
+- 📫 Feel free to reach via email at Chrisquan86@outlook.com
 <!--
 **Chris-Quan/Chris-Quan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
