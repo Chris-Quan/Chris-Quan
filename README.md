@@ -1,5 +1,7 @@
 ### Hi there 👋 My name Is Chris Quan; I am a recent Data Science Graduate open to work.
 
+Resume: https://resume.creddle.io/resume/hbsrxgqp5zc
+
 below are examples of my work. Each repository has images and a live link of the website for testing purposes
 
 Web Design
@@ -14,6 +16,7 @@ Web Design
 
 - 🔭 I’m currently working on a vue project and a personal website
 - 📫 Feel free to reach via email at Chrisquan86@outlook.com
+- 
 <!--
 **Chris-Quan/Chris-Quan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
