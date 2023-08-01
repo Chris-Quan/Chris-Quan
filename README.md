@@ -1,4 +1,4 @@
-### Hi there 👋 My name Is Chris Quan; I am a recent Data Science Graduate open to work.
+### Hi there 👋 My name Is Chris Quan. I am a recent Data Science Graduate open to work.
 
 Resume: https://resume.creddle.io/resume/hbsrxgqp5zc
 
