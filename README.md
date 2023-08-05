@@ -20,6 +20,7 @@ Web Design
 * Networking Project
 * Machine Learning Project
 * Personal Website
+
 📫 Feel free to reach via email at Chrisquan86@outlook.com
 <!--
 **Chris-Quan/Chris-Quan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
