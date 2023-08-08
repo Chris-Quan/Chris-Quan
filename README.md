@@ -1,6 +1,5 @@
 ### Hi there 👋 My name Is Chris Quan. I am a recent Data Science Graduate open to work.
 
-Resume: https://resume.creddle.io/resume/hbsrxgqp5zc
 
 below are examples of my work. Each repository has images and a live link of the website for testing purposes
 
